@@ -1,4 +1,5 @@
 # Project csgoGlow, a 100% FREE and OPEN-SOURCE wallhack for OSX
+# Better version from TENTACLE
 
 **Thanks to @gabsens and @e-retailer’s contribution to this project**
 
